@@ -1,7 +1,7 @@
 <template>
   <div class="container has-text-centered">
     <h1 class="title custom-text-dark custom-heading">
-      ChordPro
+      MoodMelody
     </h1>
     <h2 class="subtitle custom-text-dark custom-regular-text">
       <span class="notif">The automatic chord progression generator</span>
