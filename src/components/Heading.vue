@@ -4,7 +4,7 @@
       MoodMelody
     </h1>
     <h2 class="subtitle custom-text-dark custom-regular-text">
-      <span class="notif">The automatic chord progression generator</span>
+      <span >The automatic chord progression generator</span>
     </h2>
   </div>
 </template>
