@@ -1,6 +1,6 @@
 # Moodmelody
 
-Demo: [MoodMelody](moodmelody.netlify.app)
+Demo: [MoodMelody](https://moodmelody.netlify.app/)
 
 ## Project setup
 ```
