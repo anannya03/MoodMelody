@@ -2,6 +2,8 @@
 
 Demo: [MoodMelody](https://moodmelody.netlify.app/)
 
+The backend of this code is hosted via GCP- [Demo](https://chordpro.wl.r.appspot.com/)
+
 ## Project setup
 ```
 npm install
