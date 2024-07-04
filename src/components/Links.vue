@@ -11,7 +11,7 @@
       <!-- Github button -->
       <a
         class="button"
-        href="https://github.com/gauthammk/Chord-Progression-Generator"
+        href="https://github.com/anannya03/MoodMelody"
       >
         <span class="is-large mr-2">
           <i class="fab fa-github" style="white"></i>
