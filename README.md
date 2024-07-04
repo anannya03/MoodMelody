@@ -1,5 +1,7 @@
 # Moodmelody
 
+Demo: [MoodMelody](https://moodmelody.netlify.app/)
+
 ## Project setup
 ```
 npm install
